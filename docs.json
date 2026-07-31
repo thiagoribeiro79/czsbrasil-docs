@@ -21,14 +21,9 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "anchor": "CZSBrasil Website",
+          "icon": "globe-pointer",
+          "href": "https://czsbrasil.com.br/"
         }
       ]
     }
