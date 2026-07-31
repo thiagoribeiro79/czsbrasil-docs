@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "CZSBrasil",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#6D87D0",
+    "light": "#97b2fc",
+    "dark": "#5670b9"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -64,9 +64,10 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "discord": "https://discord.gg/87Q7QH8"
     }
+  },
+  "appearance": {
+    "strict": true
   }
 }
